@@ -1,0 +1,16 @@
+body {
+ margin: 0px;
+ padding: 0px;
+}
+
+.box {
+ height: 430px;
+ width: 450px;
+ background: rgba(0, 0, 0, 0.4);
+ padding: 40px;
+ text-align: center;
+ font-family: Quicksand;
+ margin: auto;
+ margin-top: 5%;
+ color: white;
+}

@@ -1,0 +1,85 @@
+
+* {
+ margin: 0px;
+ padding: 0px;
+}
+
+.nav-bar {
+ background: rgb(0, 0, 0, 0.5);
+ height: 50px;
+} 
+
+.menu {
+ float: right;
+ list-style: none;
+ margin: 5px;
+}
+ 
+.menu li {
+ display: inline-block;
+ margin: 10px 5px;
+}
+
+.menu li a {
+ text-decoration: none;
+ color: #FFF;
+ padding: 5px 5px;
+ font-family: Quicksand;
+ letter-spacing: 2px;
+ border: 1px solid #FFF;
+ cursor: pointer;
+}
+   
+.menu li a:hover {
+ color: greenyellow; 
+}
+   
+.welcome {
+ position: relative;
+ text-align: center;
+ font-family: Quicksand;
+ top: 100px;
+ color: #FFF;
+}
+   
+.welcome h1 {
+ color: deepskyblue;
+ font-family: SeasideResortNF;
+ font-size: 66px;
+ margin: 25px;
+}
+   
+.btn {
+ font-size: 18px;
+ letter-spacing: 2px;
+ margin: 5px;
+ padding: 7px 10px;
+ text-decoration: none;
+ border: 1px solid #FFF;
+}
+
+.btn1 {
+ color: #FFF;
+}
+
+.btn1:hover {
+ color: greenyellow;
+}
+
+.btn2 {
+ color: #FFF;
+}
+
+.btn2:hover {
+ color: greenyellow;
+}
+
+img.first {
+ height: 100px;
+ width: 100px;
+}
+
+img.second {
+ height: 10%;
+ width: 10%;
+}

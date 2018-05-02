@@ -1,0 +1,68 @@
+body {
+ margin: 0px;
+ padding: 0px;
+ text-align: center;
+ font-family: SeasideResortNF;
+}
+
+.Contact-title {
+ margin-top: 100px;
+ color: #FFF;
+ text-transform: uppercase;
+ transition: all 4s ease-in-out;
+}
+
+.Contact-title h1 {
+ font-size: 32px;
+ line-height: 10px;
+ color: greenyellow;
+ font-weight: 800;
+}
+
+.Contact-title h2 {
+ font-weight: 800;
+ font-size: 16px;
+ font-family:monospace;s
+}
+
+div.Contact-form {
+ transform: translate(365px, 40px); 
+}
+
+form {
+ margin-top: 50px;
+ transition: all 4s ease-in-out;
+ font-family: Quicksand;
+}
+
+.form-control {
+ font-family: Quicksand;
+ width: 600px;
+ background: transparent;
+ border: none;
+ outline: none;
+ border-bottom: 1px solid gray;
+ color: #FFF;
+ font-size: 18px;
+ margin-bottom: 16px;
+}
+
+input {
+ height: 45px;
+}
+
+form .submit {
+ font-family: Quicksand;
+ background: #ff6633;
+ border-color: transparent;
+ color: #FFF;
+ font-size: 20px;
+ font-weight: bold;
+ letter-spacing: 2px;
+ height: 50px;
+ margin-top: 20px;
+}
+
+form .submit:hover {
+ color: black;
+}

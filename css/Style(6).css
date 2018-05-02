@@ -1,0 +1,28 @@
+* {
+ margin: 0px;
+ padding: 0px;
+}
+
+body {
+ font-family: Quicksand;
+ font-size: large;
+}
+
+.first {
+ width: 600px;
+ height: 500px;
+ background: #313131; 
+ transform: rotate(-15deg);
+ transform: skew(15deg);
+}
+
+.second {
+ transform: translate(750px, -500px);
+ width: 600px;
+ height: 500px;
+ background: #313131; 
+}
+
+
+ 
+ 

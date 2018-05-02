@@ -1,0 +1,17 @@
+
+
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+body {
+ background: silver;
+ color: white;
+}
+
+.first {
+ background: black;
+ width: 250px;
+ height: 1000px;
+}
